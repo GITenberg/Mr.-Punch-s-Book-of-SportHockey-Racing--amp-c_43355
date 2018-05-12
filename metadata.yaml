@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43355#Mr.-Punch-s-Book-of-SportHockey-Racing--amp-c
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2013-07-30'
 gutenberg_type: Text
